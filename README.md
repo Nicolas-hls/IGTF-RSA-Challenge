@@ -1,5 +1,9 @@
 # 🔐 RSA Single Prime Challenge
 
+> **Author:** Created by **Nicolas HOULES** for the **Int Guardia CTF** in **Guardia Cyber Security School**.  
+![Script Execution](Int_Guardia_CTF_Logo.png)
+> **Credits:** Logic inspired by the **[CryptoHack](https://cryptohack.org/)** platform.
+
 ## 📋 Information
 
 | Category | Difficulty | Flag Format | Vulnerability |
